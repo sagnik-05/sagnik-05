@@ -1,6 +1,6 @@
 # Hi, I'm Sagnik 👋
 # 💫 About Me:
-🤖 I'm a self-taught Developer, often found glued to my computer screen.<br>🔗 Currently dwelling with Next.js to build some awsome stuff.<br>🎯 May be a Web Developer ...Or an ML Engineer.....who knows?!<br>👩‍💻 I'm currently working on some secret projects ( Even I don't know them )<br>💬 Have doubts about DSA or web-development? Ask me anytime.<br>📫 Reach out to me: sagnikpanda05@gmail.com
+🤖 I'm a self-taught Developer.<br>🔗 Currently dwelling with Next.js to build some awsome stuff.<br>🎯 May be a Web Developer ...Or an ML Engineer.....who knows?!<br>👩‍💻 I'm currently working on some secret projects ( Even I don't know them )<br>💬 Have doubts about DSA or web-development? Ask me anytime.<br>📫 Reach out to me: sagnikpanda05@gmail.com
 
 
 # 💻 Tech Stack:
